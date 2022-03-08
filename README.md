@@ -1,14 +1,20 @@
-# lumigo-intellij-plugin
+<p align="center">
+<img src="src/main/resources/icons/lumigo-logo.svg" alt="Lumigo logo" style="height: 100px; width:100px;"/>
+</p>
+
+> Integrate with the Lumigo platform right from your jetbrains IDE.
 
 ![Build](https://github.com/lumigo-io/lumigo-intellij-plugin/workflows/Build/badge.svg)
+[![commitizen](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)]()
+[![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]()
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
 
-Lumigo's intellij plugins improve your day-to-day work and save you precious time.
-With this plugin you can integrate with the Lumigo platform right from your IDE.
+
 
 Key features:
-- <b>serveless.yml</b> functions are automatically mapped, and you can route to your functions with one click. 
+
+✅&nbsp;<b>serveless.yml</b> functions are automatically mapped. <br>
+✅&nbsp; Route directly from you function definition to Lumigo.<br>
 
 ## Installation
 
