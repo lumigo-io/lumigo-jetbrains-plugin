@@ -6,6 +6,8 @@
 
     <depends>com.intellij.modules.platform</depends>
 
+    <description>Integrate with the Lumigo platform right from your jetbrains IDE.</description>
+
     <applicationListeners>
         <listener class="com.github.gililumigo.lumigointellijplugin.listeners.MyProjectManagerListener"
                   topic="com.intellij.openapi.project.ProjectManagerListener"/>
