@@ -5,8 +5,8 @@
 > Integrate with the Lumigo platform right from your jetbrains IDE.
 
 ![Build](https://github.com/lumigo-io/lumigo-intellij-plugin/workflows/Build/badge.svg)
-[![commitizen](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)]()
-[![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]()
+[![commitizen](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](https://www.conventionalcommits.org/en/v1.0.0/)
+[![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/lumigo-io/lumigo-intellij-plugin/pulls)
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
 
 
