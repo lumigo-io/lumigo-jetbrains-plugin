@@ -10,9 +10,8 @@
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
 
 <div align="center">
-<img src="https://media.giphy.com/media/yY2lETdrLOTdj8qKCF/giphy.gif" align="center" width="480" height="270"/>
+<img src="https://media.giphy.com/media/6CzvmNov6xqZGQ0ozV/giphy.gif" align="center"/>
 </div>
-
 
 
 Key features:
