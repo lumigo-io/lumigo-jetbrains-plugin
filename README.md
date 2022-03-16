@@ -9,15 +9,16 @@
 [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/lumigo-io/lumigo-intellij-plugin/pulls)
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
 
+<div align="center">
+<img src="https://media.giphy.com/media/yY2lETdrLOTdj8qKCF/giphy.gif" align="center" width="480" height="270"/>
+</div>
 
-
-![](https://s7.gifyu.com/images/ezgif.com-gif-maker4f3fc6264355ffd7.gif)
 
 
 Key features:
 
 ✅&nbsp;<b>serveless.yml</b> functions are automatically mapped. <br>
-✅&nbsp; Route directly from you function definition to Lumigo.<br>
+✅&nbsp;Route directly from you function definition to Lumigo.<br>
 
 ## Installation
 
