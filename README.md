@@ -11,6 +11,9 @@
 
 
 
+![](https://s7.gifyu.com/images/ezgif.com-gif-maker4f3fc6264355ffd7.gif)
+
+
 Key features:
 
 ✅&nbsp;<b>serveless.yml</b> functions are automatically mapped. <br>
