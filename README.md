@@ -1,4 +1,5 @@
 <p align="center">
+<img src="src/main/resources/icons/apex-plugin-svgrepo-com.svg" alt="Lumigo logo" style="height: 100px; width:100px;"/>
 <img src="src/main/resources/icons/lumigo-logo.svg" alt="Lumigo logo" style="height: 100px; width:100px;"/>
 </p>
 
@@ -16,8 +17,8 @@
 
 Key features:
 
-✅&nbsp;<b>serveless.yml</b> functions are automatically mapped. <br>
-✅&nbsp;Route directly from you function definition to Lumigo.<br>
+✅&nbsp;<b>serveless.yml</b> functions are automatically mapped with gutter icons. <br>
+✅&nbsp;Route directly from your function definition to Lumigo.<br>
 
 ## Installation
 
