@@ -8,7 +8,7 @@
 ![Build](https://github.com/lumigo-io/lumigo-intellij-plugin/workflows/Build/badge.svg)
 [![commitizen](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](https://www.conventionalcommits.org/en/v1.0.0/)
 [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/lumigo-io/lumigo-intellij-plugin/pulls)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/19035-lumigo)
 
 <div align="center">
 <img src="https://media.giphy.com/media/6CzvmNov6xqZGQ0ozV/giphy.gif" align="center"/>
