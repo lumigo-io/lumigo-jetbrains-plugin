@@ -1,12 +1,29 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>lumigo-intellij-plugin</id>
+    <id>com.lumigo.jetbrainPlugin</id>
+
     <name>Lumigo</name>
+
     <vendor>Lumigo</vendor>
+
+    <version>0.0.1</version>
 
     <depends>com.intellij.modules.platform</depends>
 
-    <description>Integrate with the Lumigo platform right from your jetbrains IDE.</description>
+    <description>
+        <![CDATA[
+        Lumigo provides observability and debugging for serverless applications. With the Lumigo plugin, you can access, monitor and debug functions directly from your JetBrains IDE.
+        Once integrated with your JetBrains IDE, you’ll see the Lumigo icon in your serverless.yml file, next to each of your functions so you easily navigate to any issues in your application code and quickly resolve it.
+        <ul>
+            <li>Auto and manual distributed tracing</li>
+            <li>System health monitoring, including 3rd party and managed services</li>
+            <li>Pre-defined, custom and real-time alert policies</li>
+        </ul>
+        For more information about Lumigo, or to get started visit: https://docs.lumigo.io/
+        ]]>
+    </description>
+
+    <change-notes>Initial release of the plugin.</change-notes>
 
     <applicationListeners>
         <listener class="com.github.gililumigo.lumigointellijplugin.listeners.MyProjectManagerListener"
